@@ -39,4 +39,4 @@ tmp
 # All .log & .sst files
 *.log
 *.sst
-test-ledger/rocksdb/000079.sst
+test-ledger/rocksdb/000079.sst*
