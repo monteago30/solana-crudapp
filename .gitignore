@@ -40,3 +40,4 @@ tmp
 *.log
 *.sst
 test-ledger/rocksdb/000079.sst*
+*test-ledger/*
